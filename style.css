@@ -1,0 +1,46 @@
+p
+{
+    background-color: blueviolet;
+    color: burlywood;
+    margin: 16px;
+}
+body{
+    background-color: fuchsia;
+}
+ul{
+    list-style-type: decimal-leading-zero;
+}
+#Education li
+{
+background-color: gray;
+padding: 8px;
+
+}
+.mainClass
+{
+background-color: paleturquoise;
+}
+h1{
+    text-align: center;
+}
+h3{
+    font-size: large;
+    font-style: italic;
+}
+.iconimg
+{
+  width: 100px;
+  height: 100px;
+
+}
+.FormID{
+    border-style: double;
+    border-color: black;
+    font-style: italic;
+
+}
+header{
+    text-align: right;
+    font-style: oblique;
+    font-size: large;
+}
